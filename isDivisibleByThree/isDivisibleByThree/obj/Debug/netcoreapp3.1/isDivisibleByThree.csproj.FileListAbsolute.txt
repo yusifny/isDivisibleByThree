@@ -1,0 +1,12 @@
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/obj/Debug/netcoreapp3.1/isDivisibleByThree.csprojAssemblyReference.cache
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/obj/Debug/netcoreapp3.1/isDivisibleByThree.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/obj/Debug/netcoreapp3.1/isDivisibleByThree.AssemblyInfo.cs
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/obj/Debug/netcoreapp3.1/isDivisibleByThree.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/bin/Debug/netcoreapp3.1/isDivisibleByThree.deps.json
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/bin/Debug/netcoreapp3.1/isDivisibleByThree.runtimeconfig.json
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/bin/Debug/netcoreapp3.1/isDivisibleByThree.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/bin/Debug/netcoreapp3.1/isDivisibleByThree.dll
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/bin/Debug/netcoreapp3.1/isDivisibleByThree.pdb
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/obj/Debug/netcoreapp3.1/isDivisibleByThree.dll
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/obj/Debug/netcoreapp3.1/isDivisibleByThree.pdb
+/Users/yusifnazarbayov/Desktop/isDivisibleByThree/isDivisibleByThree/obj/Debug/netcoreapp3.1/isDivisibleByThree.genruntimeconfig.cache
